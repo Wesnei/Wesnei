@@ -12,6 +12,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=html,css&langs_count=8&exclude_repo=github-readme-stats&layout=compact&hide_border=true&bg_color=ffffff00&text_color=3498db&title_color=3498db&show_icons=true&icon_color=3498db&custom_title=Top%20Languages&hide_title=true&exclude_repo=github-readme-stats&include_all_commits=true&count_private=true&exclude_repo=github-readme-stats,anuraghazra.github.io&hide_rank=true&hide=Jupyter%20Notebook,CSS,HTML
+
 
 ## Tecnologias que eu uso em meu dia
 
