@@ -14,6 +14,7 @@
 
 ## Tecnologias que eu uso em meu dia
 
+
 <div style="display: inline_block"><br/>
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -24,11 +25,16 @@
 <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
 </div><br>
 
 
-Jovem apaixonado por tecnologia, busco sempre aprimorar meus conhecimentos e através das minhas experiências ajudar pessoas.
+
+
+Sou um apaixonado por tecnologia, sempre em busca de aprender e crescer. Adoro explorar novas ferramentas e soluções, e acredito que o conhecimento deve ser compartilhado para que possamos evoluir juntos. Com cada projeto e desafio, meu objetivo é não só me aprimorar, mas também ajudar os outros, trazendo impacto positivo através do que faço. Estou aqui para construir, colaborar e contribuir para um futuro mais inovador e colaborativo.
 
 
 
