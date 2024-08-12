@@ -23,7 +23,10 @@
 <img align="center" alt="NODE JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div><br>
+
 
 Jovem apaixonado por tecnologia, busco sempre aprimorar meus conhecimentos e através das minhas experiências ajudar pessoas.
 
