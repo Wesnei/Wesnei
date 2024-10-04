@@ -1,20 +1,28 @@
-### Olá, eu sou o Wesnei Paiva ! 👋🏻
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Wesnei+Paiva;I'm+19+years+old;I+am+from+Boa+Viagem,+CE;I+study+Software+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Wesnei&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesnei&layout=compact&hide_border=true&title_color=00FF00&text_color=00FF00&bg_color=0d1117" />
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wesnei&bg_color=000000&color=00FF00&line=3CB371&point=006400&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Wesnei&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/wesney.paiva?mibextid=ZbWKwL)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wesney_paiva?igsh=N3M3NTI5cHJybml0)
 [![Linkedln](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesnei-paiva-98539a292)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://wesneipaiva@gmail.com)
 
-
-![Wesnei GitHub stats](https://github-readme-stats.vercel.app/api?username=Wesnei&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wesnei&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-## Tecnologias que eu uso em meu dia
-
-
+## Main Skills
 <div style="display: inline_block"><br/>
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -32,9 +40,18 @@
 </div><br>
 
 
+## Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-0D1117?style=for-the-badge&logo=intellijidea&labelColor=0D1117)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-0D1117?style=for-the-badge&logo=android-studio&labelColor=0D1117)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-0D1117?style=for-the-badge&logo=pycharm&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
 
-Sou um apaixonado por tecnologia, sempre em busca de aprender e crescer. Adoro explorar novas ferramentas e soluções, e acredito que o conhecimento deve ser compartilhado para que possamos evoluir juntos. Com cada projeto e desafio, meu objetivo é não só me aprimorar, mas também ajudar os outros, trazendo impacto positivo através do que faço. Estou aqui para construir, colaborar e contribuir para um futuro mais inovador e colaborativo.
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Wesnei}/count.svg" /></p> 
+<br></div>
 
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
