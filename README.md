@@ -33,15 +33,6 @@
 
   <br><br>
 
-  <p><b>Quality Assurance & Testing</b></p>
-  <img src="https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=jest&logoColor=C21325" />
-  <img src="https://img.shields.io/badge/Cypress-0D1117?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pytest-0D1117?style=for-the-badge&logo=pytest&logoColor=0A9EDC" />
-  <img src="https://img.shields.io/badge/SonarQube-0D1117?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" />
-  <img src="https://img.shields.io/badge/k6-0D1117?style=for-the-badge&logo=k6&logoColor=7D64FF" />
-
-  <br><br>
-
   <p><b>Development Ecosystem</b></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,git,github,bitbucket&theme=dark" />
