@@ -41,8 +41,9 @@
 
 <br><br>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Wesnei/Wesnei/snake-output/snake.svg" alt="Snake animation" />
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Wesnei/Wesnei/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 <br><br>
 
