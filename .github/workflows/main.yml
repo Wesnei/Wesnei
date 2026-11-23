@@ -1,4 +1,4 @@
-name: Gerar Snake Animation
+name: Gerar Snake e Top Languages
 
 on:
   schedule:
@@ -30,3 +30,18 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  languages:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Gerar grafico de linguagens
+        uses: Ricky-11/github-readme-stats-action@v1.0.2
+        with:
+          username: Wesnei
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: languages-output
+          file_name: languages.svg
+          card_type: top-langs
+          options: "locale=en&hide_title=false&layout=compact&card_width=450&langs_count=6&title_color=00C9FF&text_color=FFFFFF&bg_color=0D1117&border_color=00C9FF&hide_border=false"
