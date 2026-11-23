@@ -42,6 +42,12 @@
 <br><br>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Wesnei/Wesnei/languages-output/languages.svg" alt="Most Used Languages" />
+</div>
+
+<br><br>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/Wesnei/Wesnei/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
