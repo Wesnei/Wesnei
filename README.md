@@ -42,5 +42,11 @@
 <br><br>
 
 <div align="center">
+  <img src="https://githubusercontent.com" alt="Snake animation" />
+</div>
+
+<br><br>
+
+<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00C9FF&height=120&section=footer"/>
 </div>
