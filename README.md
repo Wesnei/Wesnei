@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/wesnei-paiva-98539a292"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00C9FF" alt="LinkedIn" /></a>
 </div>
 
-<br><br><br>
+<br><br>
 
 <div align="center">
   <p><b>Frontend & Backend Architecture</b></p>
@@ -37,12 +37,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,git,github,bitbucket&theme=dark" />
   </a>
-</div>
-
-<br><br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Wesnei/Wesnei/languages-output/languages.svg" alt="Most Used Languages" />
 </div>
 
 <br><br>
